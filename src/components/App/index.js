@@ -8,7 +8,7 @@ and clear all of the items in a list.
 2. In order for the components to interact with one another, some functionality will need to be hoisted into the App component
  */
 
-const url = process.env.REACT_APP_BACKEND_URL ?? "https://edmungoroseworkshop.onrender.com/";
+const url = "https://edmungoroseworkshop.onrender.com/";
 //const url = "https://edmungoroseworkshop.onrender.com/";
 
 function App() {
